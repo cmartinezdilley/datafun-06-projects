@@ -1,4 +1,6 @@
 # datafun-06-projects
+# Christine Martinez Module 6 Project
+
 Task 1.  Begin with the End in Mind
 Read the exercise. Begin considering what you'd like your second project to focus on / showcase. 
 
